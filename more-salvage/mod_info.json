@@ -1,0 +1,10 @@
+{
+  "id":"more_crew_salvage",
+  "name":"More Crew From Salvage",
+  "author":"You",
+  "version":"1.0",
+  "description":"Increases crew spawned during salvage.",
+  "gameVersion":"0.98a-RC10",
+  "jars":["jars/more_crew_salvage.jar"],
+  "modPlugin":"data.scripts.MoreCrewSalvageModPlugin"
+}
